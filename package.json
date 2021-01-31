@@ -1,5 +1,5 @@
 {
-  "name": "devportfolio-template",
+  "name": "chethan portfolio-template",
   "version": "1.2.2",
   "description": "",
   "main": "js/scripts.js",
@@ -12,7 +12,7 @@
     "website",
     "tech",
     "coding",
-    "dev"
+    "Chethan"
   ],
   "author": "Chethan R",
   "license": "MIT",
